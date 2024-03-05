@@ -1,4 +1,5 @@
-In this project, we clean, analyse and visualise sales data for February 2024
+In this project, we clean, analyse and visualise sales data for February 2024 using python
+
 Steps involved :
 
 -Download the file
